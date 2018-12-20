@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/igms">
+        <file>D:/Downloads/Icons/Icons/Copy.bmp</file>
+        <file>D:/Downloads/Icons/Icons/Cut.bmp</file>
+        <file>D:/Downloads/Icons/Icons/DeleteSticky.bmp</file>
+        <file>D:/Downloads/Icons/Icons/New.bmp</file>
+        <file>D:/Downloads/Icons/Icons/Open.bmp</file>
+        <file>D:/Downloads/Icons/Icons/Paste.bmp</file>
+        <file>D:/Downloads/Icons/Icons/Save.bmp</file>
+        <file>D:/Downloads/Icons/Icons/print.png</file>
+    </qresource>
+</RCC>
